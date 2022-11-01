@@ -27,7 +27,7 @@ providers:
 certificatesResolvers:
   letsencrypt:
     acme:
-      email: example.com
+      email: h68he@uwaterloo.ca
       storage: acme.json
       keyType: EC384
       httpChallenge:
